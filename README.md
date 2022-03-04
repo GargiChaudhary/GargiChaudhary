@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @GargiChaudhary
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning React.js and focusing on my Problem Solving Skills
+- 💞️ Love Leetcoding
+- 📫 How to reach me... gargichaudhary06@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
