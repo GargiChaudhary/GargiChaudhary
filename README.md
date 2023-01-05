@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gargi Chaudhary</h1>
-<h3 align="center">A girl focusing on strengthen her coding journey.</h3>
-
-- 🌱 I’m currently learning **Image Processing**
+<h3 align="center">A girl strengthening her coding journey.</h3>
 
 - 📫 How to reach me **gargichaudhary06@gmail.com**
 
